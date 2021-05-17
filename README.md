@@ -8,3 +8,4 @@ public class Main {
 	}
 }
 ```
+![Capture](https://user-images.githubusercontent.com/35807054/118508757-16c23080-b6f5-11eb-841a-ac67ddb7ea6d.PNG)
